@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Talking Tech with w00keee</title>
+    <link>https://w00keee.github.io/</link>
+    <description>Recent content on Talking Tech with w00keee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Jun 2022 22:33:00 -0700</lastBuildDate><atom:link href="https://w00keee.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learning Hugo and Github Pages</title>
+      <link>https://w00keee.github.io/posts/learning_hugo/</link>
+      <pubDate>Sat, 18 Jun 2022 22:33:00 -0700</pubDate>
+      
+      <guid>https://w00keee.github.io/posts/learning_hugo/</guid>
+      <description>Thanks to Ryan Schachte&amp;rsquo;s YouTube video for helping me get this up and running in about 10 minutes.
+Creating a Blog with Hugo and Github in 10 minutes</description>
+    </item>
+    
+  </channel>
+</rss>
